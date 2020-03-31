@@ -1,0 +1,89 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #201D65;
+}
+
+.banner {
+  color: #ffffff;
+  background-color: #201D65;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.container {
+  display: table;
+  }
+
+.col1 {
+  display: table-cell;
+}
+  
+
+.info {
+ display: inline-block;
+ width: 35%;
+ text-align: center;
+ padding: 2.5%;
+ 
+ vertical-align: middle;
+}
+
+.quote {
+  display: inline-block;
+  width: 35%;
+  text-align: center;
+  padding: 2.5%;
+  
+  vertical-align: middle;
+}
+
+
+.imagebox {
+  display: inline-block;
+  width: 15%;
+  padding: 2.5%;
+  
+  text-align: center;
+  vertical-align: middle;
+}
+
+.image {
+  width:100%;
+  
+}
+
+.experience {
+  display: inline-block;
+  width: 30%;
+  height: auto;
+  background-color: #fcdb71;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 0px;
+
+    }
+
+.skills {
+  display: inline-block;
+  width: 60%;
+  height: auto;
+  padding: 10px;
+
+}
+
+h3 {
+  background-color: #ffc300 ;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 10px;
+  margin: 5px;
+}
+
+.details-container {
+  display: table;
+  width: 100%;
+}
+
+.col {
+  display: table-cell;
+}
